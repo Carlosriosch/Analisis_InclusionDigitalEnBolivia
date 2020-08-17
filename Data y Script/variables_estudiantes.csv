@@ -1,0 +1,150 @@
+Código,Descripción
+a0,¿Fuiste parte del proyecto Inclusión Digital?
+a1,¿Cuál es tu sexo? 
+a2,¿Cuántos años tienes?
+a3,¿En qué departamento se encuentra tu unidad educativa ?    
+a4,¿En qué ciudad se encuentra tu unidad educativa?
+a40,¿Cuál es tu Unidad Educativa?
+b2,¿En qué curso del colegio estas?
+b2[other],¿En qué curso del colegio estas? [Otro]
+c1,"¿Nivel de instrucción de tu padre, madre o jefe de hogar?"
+c2,Número de miembros en tu hogar
+d1,¿Tienes computadora en tu casa?
+d11, ¿Es una computadora de escritorio o una laptop?
+d2,¿Cuántas computadoras de escritorio tienes en casa?
+d3,¿Tienes tableta en tu casa?
+d4,¿Cuántas tabletas tienen en casa?
+d5,¿Cuántos días a la semana utilizas una computadora?
+d6[d61],¿De qué lugar accedes a una computadora con mayor frecuencia? [Casa]
+d6[d62],¿De qué lugar accedes a una computadora con mayor frecuencia? [Colegio]
+d6[d63],¿De qué lugar accedes a una computadora con mayor frecuencia? [Café Internet]
+d6[other],¿De qué lugar accedes a una computadora con mayor frecuencia? [Otro]
+d7[d71],"¿Qué uso le das a las computadoras(escritorio, portátil o tablet )? [Realizar trabajos para el colegio]"
+d7[d72],"¿Qué uso le das a las computadoras(escritorio, portátil o tablet )? [Juegos]"
+d7[d73],"¿Qué uso le das a las computadoras(escritorio, portátil o tablet )? [Investigar por tu cuenta]"
+d7[d74],"¿Qué uso le das a las computadoras(escritorio, portátil o tablet )? [Música]"
+d7[d75],"¿Qué uso le das a las computadoras(escritorio, portátil o tablet )? [Vídeos]"
+d7[d76],"¿Qué uso le das a las computadoras(escritorio, portátil o tablet )? [Navegar en el internet]"
+d7[other],"¿Qué uso le das a las computadoras(escritorio, portátil o tablet )? [Otro]"
+e1,¿Tienes teléfono celular personal? 
+e2,¿Tu celular es inteligente (smartphone)?
+e3,¿En el colegio te permiten usar el celular?
+e4[e41],¿Qué uso le das al celular? [Llamadas]
+e4[e42],¿Qué uso le das al celular? [Música]
+e4[e43],¿Qué uso le das al celular? [Juegos]
+e4[e44],¿Qué uso le das al celular? [Fotos]
+e4[e45],¿Qué uso le das al celular? [Estudio]
+e4[e46],¿Qué uso le das al celular? [Trabajo]
+e4[e47],¿Qué uso le das al celular? [Vídeos]
+e4[e48],¿Qué uso le das al celular? [Internet]
+e4[e49],¿Qué uso le das al celular? [Mensajes de texto]
+e4[other],¿Qué uso le das al celular? [Otro]
+f1,¿Tienes acceso a internet en tu casa?
+f2,¿Tienes acceso a internet en tu celular móvil?
+f21, ¿Tienes acceso a internet en el colegio?
+f3,¿La última semana utilizaste internet para buscar información?
+f4,¿Utilizas internet en general?
+f5[1],¿Para que utilizas el internet? [Contactar amigos/familia]
+f5[2],¿Para que utilizas el internet? [Fines académicos]
+f5[3],¿Para que utilizas el internet? [Descargar archivos]
+f5[4],¿Para que utilizas el internet? [Redes sociales]
+f5[5],¿Para que utilizas el internet? [Buscar información]
+f5[6],¿Para que utilizas el internet? [Trabajo]
+f5[7],¿Para que utilizas el internet? [Jugar]
+f5[8],¿Para que utilizas el internet? [Correo electrónico]
+f5[9],¿Para que utilizas el internet? [Compras o ventas por Internet]
+f5[10],¿Para que utilizas el internet? [Ver noticias]
+f5[11],¿Para que utilizas el internet? [Música o ver vídeos]
+f5[other],¿Para que utilizas el internet? [Otro]
+f51, ¿Qué tipo de conexión usas con mayor frecuencia?
+f51[other], ¿Qué tipo de conexión usas con mayor frecuencia? [Otro]
+f6[1],¿De qué lugar accedes a internet con mayor frecuencia? [Casa]
+f6[2],¿De qué lugar accedes a internet con mayor frecuencia? [Café internet]
+f6[3],¿De qué lugar accedes a internet con mayor frecuencia? [Colegio]
+f6[other],¿De qué lugar accedes a internet con mayor frecuencia? [Otro]
+f7[1],De los siguientes sitios web o aplicaciones en internet ¿Cuáles utilizas? [Google Académico]
+f7[2],"De los siguientes sitios web o aplicaciones en internet ¿Cuáles utilizas? [Buscadores (Google, yahoo u otros)]"
+f7[3],De los siguientes sitios web o aplicaciones en internet ¿Cuáles utilizas? [Photoshop]
+f7[4],De los siguientes sitios web o aplicaciones en internet ¿Cuáles utilizas? [Google Drive]
+f7[5],De los siguientes sitios web o aplicaciones en internet ¿Cuáles utilizas? [Correo electrónico]
+f7[6],De los siguientes sitios web o aplicaciones en internet ¿Cuáles utilizas? [Wikis]
+f7[7],De los siguientes sitios web o aplicaciones en internet ¿Cuáles utilizas? [Soundcloud]
+f7[8],De los siguientes sitios web o aplicaciones en internet ¿Cuáles utilizas? [Prezi]
+f7[other],De los siguientes sitios web o aplicaciones en internet ¿Cuáles utilizas? [Otro]
+f8[SQ001], De las siguientes redes sociales ¿cuáles utilizas? [Facebook]
+f8[SQ002], De las siguientes redes sociales ¿cuáles utilizas? [You Tube]
+f8[SQ003], De las siguientes redes sociales ¿cuáles utilizas? [WhatsApp]
+f8[SQ004], De las siguientes redes sociales ¿cuáles utilizas? [Messenger]
+f8[SQ005], De las siguientes redes sociales ¿cuáles utilizas? [Instagram]
+f8[SQ006], De las siguientes redes sociales ¿cuáles utilizas? [Twitter]
+f8[SQ007], De las siguientes redes sociales ¿cuáles utilizas? [LinkedIn]
+f8[SQ008], De las siguientes redes sociales ¿cuáles utilizas? [Skype]
+f8[SQ009], De las siguientes redes sociales ¿cuáles utilizas? [Snapchat]
+f8[SQ010], De las siguientes redes sociales ¿cuáles utilizas? [Telegram]
+f8[SQ011], De las siguientes redes sociales ¿cuáles utilizas? [Tic Toc]
+f8[SQ012], De las siguientes redes sociales ¿cuáles utilizas? [Vimeo]
+f8[SQ013], De las siguientes redes sociales ¿cuáles utilizas? [Line]
+f8[other], De las siguientes redes sociales ¿cuáles utilizas? [Otro]
+f9, ¿Cuántos días a la semana utilizas internet?
+z1," ¿Sabe elaborar, copiar o desplazar texto en un documento y/o buscar, copiar y mover archivos?"
+z2,  ¿Sabe enviar y abrir correos electrónicos con archivos adjuntos?
+z3,  ¿Sabe conectar o instalar nuevos dispositivos y/o transferir archivos entre la computadora y otro dispositivo?
+z4,"  ¿Sabes buscar, instalar y configurar programas y/o aplicaciones desde tu celular ?"
+z5,"    ¿Sabes buscar, instalar y configurar programas y/o aplicaciones desde tu computadora ? "
+z6,     ¿Sabes conectarte a una red wifi desde una laptop? 
+z7,  ¿Sabes conectarte a una red wifi desde un teléfono móvil? 
+g1,¿Qué sistema operativo utilizas generalmente?
+g1[other],¿Qué sistema operativo utilizas generalmente? [Otro]
+g2,¿Conoces Software Libre?
+g3[1],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Writer (Procesador de texto)]"
+g3[2],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Calc (Hoja de cálculo)]"
+g3[3],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Draw (Editor gráfco)]"
+g3[4],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Gimp (Edición de imágenes)]"
+g3[5],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Freemind (Mapas mentales)]"
+g3[6],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Audacity (Editor de audio)]"
+g3[7],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Openshot (Editor de video )]"
+g3[8],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Wordpress (Sistema para crear siios web)]"
+g3[9],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Sozi (Presentaciones)]"
+g3[10],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Inkscape (Edición de imágenes vectoriales)]"
+g3[11],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Ninguno]"
+g3[other],"De los programas que se mencionan a continuación, ¿Cuáles utilizas? [Otro]"
+h2,¿Sabes qué son las licencias libres?
+h1,¿Sabes lo que es el conocimiento abierto?
+h3,¿Sabe qué son los datos abiertos?
+i0, En tu unidad educativa ¿Existe un aula específica equipada para el uso de computadoras?
+i1,En tu unidad educativa ¿Existe un aula específica equipada para el uso de las KUAA?
+i2,¿Utilizaste alguna vez las KUAA para pasar clases?
+i3, ¿Cuándo fue la última vez que utilizaste en un aula las KUAA para pasar?
+i4,¿Pudiste utilizar Internet en el laboratorio de computación de tu Unidad Educativa?
+i5, ¿Incorporaste el uso de tecnologías para tu aprendizaje en el colegio? 
+j1[SQ001],Te preparaste antes de venir a clase mediante: [Vídeos]
+j1[SQ002],Te preparaste antes de venir a clase mediante: [Presentaciones o infografías u otro material gráfico]
+j1[SQ003],Te preparaste antes de venir a clase mediante: [Textos en linea]
+j1[SQ004],Te preparaste antes de venir a clase mediante: [Textos impresos]
+j1[SQ005],Te preparaste antes de venir a clase mediante: [No me prepare]
+j1[other],Te preparaste antes de venir a clase mediante: [Otro]
+j2,Los materiales que preparaste antes de clase mayormente fueron:
+j3,Recibiste una guía de estudio o de orientación que te permitió recuperar o comprender la información para tu auto preparación mediante recursos digitales.
+j4,El profesor te proporcionó foro de preguntas y respuestas para consultar tus dudas que tenías sobre el trabajo asignado fuera del aula.
+j5,"Para el desarrollo de tu materia, sientes que el profesor preparó productos para retroalimentar tu aprendizaje."
+j6, La forma de organización de la clase normalmente fue: 
+j7,"Tu profesor Integró las KUAA o alguna TIC en clase, para que puedas Identificar, localizar, recuperar, almacenar, organizar y analizar la información digital."
+j8,"Lograste crear  contenidos digitales (editar contenidos nuevos, integrar y elaborar contenidos previos)"
+j9," En tu clase, lograste comunicarte en entornos digitales y pudiste compartir recursos a través de herramientas en línea. "
+k1[SQ001], ¿Qué requerimientos considera que necesita para el uso de las computadoras KUAA en su clase? [Mobiliario]
+k1[SQ002], ¿Qué requerimientos considera que necesita para el uso de las computadoras KUAA en su clase? [Cableado de Red para la interconexión de las computadoras]
+k1[SQ003], ¿Qué requerimientos considera que necesita para el uso de las computadoras KUAA en su clase? [Medidas de seguridad]
+k1[SQ004], ¿Qué requerimientos considera que necesita para el uso de las computadoras KUAA en su clase? [Equipo de computación]
+k1[SQ005], ¿Qué requerimientos considera que necesita para el uso de las computadoras KUAA en su clase? [Acceso a Internet]
+k1[other], ¿Qué requerimientos considera que necesita para el uso de las computadoras KUAA en su clase? [Otro]
+k2, ¿Sabe de lo que trata el proyecto Inclusión Digital?
+k3," Describa brevemente acerca del ""Proyecto Inclusión Digital"""
+l1,¿Como calificas la capacitación brindada por el proyecto Inclusión Digital?
+l2,¿Por qué?
+l3,"Posterior a la capacitación, ¿crees que el uso de tecnologías puede ser útil para el Proceso de Educación y Aprendizaje?"
+l4,¿Por qué?
+l5,¿Crees que el uso de tecnologías y herramientas de software libre mejoró tu aprendizaje?
+l6,¿Por qué?
+l7,¿Cómo calificas la labor de los voluntarios en el aula?
+i71,¿Por qué?
+l8,Anote alguna recomendación u observación para el proyecto Inclusión Digital
